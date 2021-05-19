@@ -18,7 +18,7 @@ repositories {
 
 // In this section you declare the dependencies for your production and test code
 dependencies {
-    implementation group: 'io.automation', name: 'service-core', version: '1.1.0'
+    implementation group: 'io.automation', name: 'service-core', version: '1.1.2'
 
     implementation group: 'io.rest-assured', name: 'rest-assured', version: '4.3.3'
     implementation group: 'io.cucumber', name: 'cucumber-java', version: '6.10.2'
